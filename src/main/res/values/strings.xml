@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AppliEDFMySQL</string>
+    <string name="titre">MENU EDF</string>
+    <string name="buttonNvReleve">Nouveau Relevé</string>
+    <string name="buttonListeReleves">Liste Relevés</string>
+    <string name="buttonNvClient">Nouveau Client</string>
+    <string name="buttonListeClients">Liste Clients</string>
+
+    <string name="menu_saisir">Saisir</string>
+    <string name="menu_newClient">Nouveau client</string>
+    <string name="menu_newReleve">Nouveau Relevé</string>
+    <string name="menu_afficher">Afficher</string>
+    <string name="menu_listeClients">liste des clients</string>
+    <string name="menu_listeReleves">Liste des relevés</string>
+    <string name="titreNewClient">Saisir nouveau client</string>
+    <string name="editTextName">Nom prénom</string>
+    <string name="textEmail">email</string>
+    <string name="textPostalAdresse">adresse</string>
+    <string name="editTextPhone">tel</string>
+    <string name="btnEnregistrerClient">enregistrer</string>
+    <string name="btnQuitterNewClient">quitter</string>
+    <string name="saisieHP">compteur heure pleine</string>
+    <string name="saisieHC">compteur heure creuse</string>
+    <string name="bouton1">normal</string>
+    <string name="bouton2">enménagement</string>
+    <string name="cpt">saisir nouveau relevé</string>
+    <string name="bouton3">changement</string>
+    <string name="btnEnregistrerReleve">enregistrer</string>
+    <string name="btnQuitterNewReleve">quitter</string>
+    <string name="textViewNomPrenom">NomPrénom</string>
+    <string name="textViewEmail">Email</string>
+    <string name="textViewIdReleve">N° relevé</string>
+    <string name="textViewCptHP">cpt HP</string>
+    <string name="textViewCptHC">cpt HC</string>
+    <string name="btnModifierUnClient">Modifier</string>
+    <string name="btnSupprimerUnClient">Supprimer</string>
+    <string name="btnQuitterAfficheUnClient">Retour</string>
+
+</resources>
